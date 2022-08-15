@@ -65,6 +65,4 @@ Open [http://localhost:8000](http://localhost:8000) to view it in the browser. P
 	<img src="./screenshots/4.png" alt="Elendil Screenshot" />
 	<img src="./screenshots/5.png" alt="Elendil Screenshot" />
 	<img src="./screenshots/6.png" alt="Elendil Screenshot" />
-	<img src="./screenshots/7.png" alt="Elendil Screenshot" />
-	<img src="./screenshots/8.png" alt="Elendil Screenshot" />
 </a>
