@@ -43,11 +43,13 @@ class DiscussionThread extends Component {
         let deleteBtn = null;
         if (Quser.name === this.props.user.name) {
             deleteBtn = (
+
                 <button
                     className={`discThread__delete`}
                     onClick={this.props.triggerDeletion.bind(this, qid)}>
                     <i class="fas fa-times-circle" />
                 </button>
+                
             );
         }
 
